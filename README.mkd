@@ -1,0 +1,4 @@
+
+百度指数 API
+
+http://index.baidu.com/
